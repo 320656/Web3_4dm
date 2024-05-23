@@ -1,12 +1,11 @@
 import {
     HomeOutlined,
     ShopOutlined,
-    ShoppingCartOutlined,
     UserOutlined,
   } from "@ant-design/icons";
   import { Menu } from "antd";
   //import { useEffect, useState } from "react";
-  import { useLocation, useNavigate } from "react-router-dom";
+  import { useNavigate } from "react-router-dom";
   
   function SideMenu() {
   //  const location = useLocation();
